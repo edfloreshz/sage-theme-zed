@@ -1,0 +1,7 @@
+id = "sage-theme"
+name = "Sage Theme"
+schema_version = 1
+version = "0.0.1"
+authors = ["Eduardo Flores <edfloreshz@gmail.com>"]
+description = "Soothing Sage theme for Zed"
+repository = "https://github.com/edfloreshz/sage-zed-theme"
